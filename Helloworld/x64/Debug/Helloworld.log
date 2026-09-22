@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Helloworld.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Helloworld.cpp
+  Helloworld.vcxproj -> C:\Users\Анастасия\Documents\Уч_проекты\Helloworld\x64\Debug\67.exe
